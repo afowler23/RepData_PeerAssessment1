@@ -163,7 +163,7 @@ median(TotalSteps2$Steps)
 
 Histogram
 ```{r}
-hist(TotalSteps2$Steps, breaks=5, xlab="# of Steps", main = "Total # of Steps per Day (Imputed data)", col="Grey")
+hist(TotalSteps2$Steps, breaks=5, xla b= "# of Steps", main = "Total # of Steps per Day (Imputed data)", col="Grey")
 ```
 ![plot of ImputedPlot](./RepData_PeerAssessment1/figures/ImputedPlot.png) 
 
